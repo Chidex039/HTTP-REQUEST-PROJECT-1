@@ -1,0 +1,12 @@
+Step One
+We need a form
+ Step Two:
+ Creating a skeleton for the design
+ Step Three:
+ Styling the website
+ Step Four: 
+ Connect our Javascript to become functional
+ 1. Target our input field and button
+ 2. Add a click event to the search button
+ 3. Create a an async function to help us in fetching the movie information 
+ 4. Get the value that the user typed in the search input field
